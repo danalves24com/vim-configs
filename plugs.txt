@@ -1,0 +1,7 @@
+
+
+
+call plug#begin()
+Plug 'valloric/youcompleteme' " complete
+Plug 'preservim/NERDTree' " Directory browser
+call plug#end()
