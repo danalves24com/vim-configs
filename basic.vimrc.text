@@ -10,7 +10,7 @@ syntax on
 
 set number	
 set cursorline
-setc cursorcolumn
+set cursorcolumn
 
 set linebreak	
 set showbreak=+++	
